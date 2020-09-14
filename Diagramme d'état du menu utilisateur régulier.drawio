@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T10:21:13.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="pZA6Pj1TsutPQOyM9Fo6" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T10:21:30.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="LfU72gO6Hgr_dBeYUdGr" version="13.6.10" type="github">
   <diagram id="sAuFEiyXrvTZa1YXKKC7" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -345,7 +345,7 @@
             <mxPoint x="1790" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jD7bIvpTYRhTq4xbUO8--120" value="Accéder à la liste de ses recherches" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="jD7bIvpTYRhTq4xbUO8--120" value="Accéder à la liste de ses consultations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="760" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jD7bIvpTYRhTq4xbUO8--121" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jD7bIvpTYRhTq4xbUO8--120">

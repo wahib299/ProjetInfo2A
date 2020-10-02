@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T10:16:21.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Wh4oMTgV0VTDCCopiSkj" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T10:22:44.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Uh6aXsvRSmkRqbhPBbCq" version="13.7.7" type="github">
   <diagram id="7kaFY4Va8JTyyUi32X58" name="Page-1">
     <mxGraphModel dx="493" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
           <mxGeometry x="1600" y="440" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kJKvz6DXWtPmO5vYXPtP-20" value="Ajouter / Supprimer&lt;br&gt;des favoris" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="1800" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kJKvz6DXWtPmO5vYXPtP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kJKvz6DXWtPmO5vYXPtP-23" target="kJKvz6DXWtPmO5vYXPtP-51">
           <mxGeometry relative="1" as="geometry" />

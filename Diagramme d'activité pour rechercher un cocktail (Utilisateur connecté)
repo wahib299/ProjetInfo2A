@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T10:43:05.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="fs5LZR5sEGUBd9xsPE_d" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T10:46:48.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="gxk2lyGM-q6nUQqUPBwV" version="13.7.7" type="github">
   <diagram id="7kaFY4Va8JTyyUi32X58" name="Page-1">
     <mxGraphModel dx="493" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
         <mxCell id="kJKvz6DXWtPmO5vYXPtP-20" value="Ajouter / Supprimer&lt;br&gt;des favoris" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="560" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kJKvz6DXWtPmO5vYXPtP-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kJKvz6DXWtPmO5vYXPtP-55" target="kJKvz6DXWtPmO5vYXPtP-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kJKvz6DXWtPmO5vYXPtP-55" value="Supprimer le&lt;br&gt;cocktail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1800" y="520" width="120" height="40" as="geometry" />
         </mxCell>
@@ -107,6 +110,12 @@
         </mxCell>
         <mxCell id="kJKvz6DXWtPmO5vYXPtP-105" value="Se connecter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kJKvz6DXWtPmO5vYXPtP-107" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kJKvz6DXWtPmO5vYXPtP-109" value="Nouvelle recherche" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

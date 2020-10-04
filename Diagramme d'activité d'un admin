@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T15:35:08.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="WithLQmKVVQUEVhm-FaI" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-04T15:36:57.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="2Jf9wwHrYxJUmVxDjEng" version="13.7.7" type="github">
   <diagram id="WTG0x8MYoZTFnnGs90WS" name="Page-1">
     <mxGraphModel dx="493" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X6DUIEFJtjlEsgd_5wWW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X6DUIEFJtjlEsgd_5wWW-5" target="X6DUIEFJtjlEsgd_5wWW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X6DUIEFJtjlEsgd_5wWW-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X6DUIEFJtjlEsgd_5wWW-5" target="X6DUIEFJtjlEsgd_5wWW-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X6DUIEFJtjlEsgd_5wWW-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -142,6 +145,12 @@
         </mxCell>
         <mxCell id="X6DUIEFJtjlEsgd_5wWW-52" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Fin&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2000" y="530" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X6DUIEFJtjlEsgd_5wWW-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X6DUIEFJtjlEsgd_5wWW-56" target="X6DUIEFJtjlEsgd_5wWW-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X6DUIEFJtjlEsgd_5wWW-56" value="Ajouter un cocktail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

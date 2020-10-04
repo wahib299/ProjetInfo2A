@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T15:39:56.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="VlmVJor9GokFxuSAU5DE" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-04T16:44:10.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="yYOrqmqmdKWvngQ6jAqK" version="13.7.7" type="github">
   <diagram id="6RxG7gK5Ie-jk2TVun4r" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -391,7 +391,7 @@
             <mxPoint x="280" y="1170.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KPtPrAOWVzAFnmd8ENjY-110" value="&lt;div&gt;Ajouter/Supprimer&lt;/div&gt;&lt;div&gt;un cocktail&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KPtPrAOWVzAFnmd8ENjY-110" value="&lt;div&gt;Supprimer&lt;/div&gt;&lt;div&gt;un cocktail&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KPtPrAOWVzAFnmd8ENjY-111" value="Supprimer le compte d&#39;un régulier" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
